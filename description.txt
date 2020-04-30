@@ -1,0 +1,20 @@
+/*
+**PlaylistApp**
+
+We will create a menu driven application that will simulate a user playing songs from a playlist of songs.
+
+We will use a list to simulate the user selecting the first song in the playlist and then selecting 
+next and previous to play forward of backwards through the playlist.
+
+We will also allow users to add new song to the playlist and they will be added prior to the currently playing song.
+
+The menu looks as follows:
+
+F - Play first song
+N - Play next song
+P - Play previous song
+A - Add and play a new song at current location
+L - List the current playlist
+=============================
+Enter a selection (Q to quit):
+*/
